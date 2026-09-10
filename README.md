@@ -1,2 +1,6 @@
 # latam-ctl-inventory-kyc-verifier-job
-catalog / critical / latam
+
+Team: **catalog**  
+Tier: **critical**  
+Region: **latam**  
+Synthetic demo repo for the Domo governance platform.
